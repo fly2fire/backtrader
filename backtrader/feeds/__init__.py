@@ -52,3 +52,6 @@ from .vchartfile import VChartFile
 
 from .rollover import RollOver
 from .chainer import Chainer
+
+from .mysqlfeed import MySQLData
+from .pgsqlfeed import PGSQLData
